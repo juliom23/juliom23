@@ -1,0 +1,23 @@
+.c1{
+    width: 100vw;
+}
+.c2,.c3{
+    width: 50%;
+}
+.c3{
+    height: 42rem;
+}
+.title-hobbie{
+    display: block;
+    text-align: center;
+    
+}
+.hobbie-list{
+    display: block;
+    text-align: center;
+ 
+}
+figcaption{
+    text-align: center;
+    font-size: 1.5rem;
+}
